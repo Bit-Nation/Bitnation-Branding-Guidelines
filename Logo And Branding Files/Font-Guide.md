@@ -3,7 +3,7 @@
 
 The fonts have been selected because they're simple, elegant, classic and highly readable.
 
-## Pangea name and header font: 
+## Pangea name and header font
 
 - [Source Code Pro](https://typekit.com/fonts/source-code-pro)
 
