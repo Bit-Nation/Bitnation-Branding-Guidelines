@@ -4,7 +4,7 @@ To organize Bitnation meetups, please contact @erikv_93 on Telegram or erik.voll
 
 Before starting to organize physical meetups, please have a look at our entry-level tasks for new ambassadors: https://docs.google.com/document/d/1qS6Cpxyg_1hcXv_itVTC9Iu-0UvHssIaScuWYFBQXx4/
 
-Ambassadors earn $200 in XPAT for each meetup that they organize and meet the criteria (present complete documentation like video footage or pictures, at least 3 meetup participants, duration of minimum 15 minutes and correct presentation of contents).
+Ambassadors earn $50 in XPAT for each meetup that they organize and meet the criteria (present complete documentation like video footage or pictures, at least 20 meetup participants, duration of minimum 15 minutes and correct presentation of contents).
 
 The meetups are result-oriented. We don't just want to raise awareness about the project, but we want to gather localized ideas for DApp prototypes that could result from a brainstorming or a panel discussion. Eventually we could use these local governance projects for a tokenized crowdfunding using XPAT. 
 
